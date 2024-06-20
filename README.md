@@ -1,6 +1,4 @@
-Sure, here's a simplified `README.md` with a focus on the description of the Python notebooks and how the project is structured:
 
-```markdown
 # Quora Question Pair Analysis using LSTMs
 
 ## Overview
@@ -49,7 +47,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-```plaintext
+
 quora-question-pair-analysis/
 ├── data/
 │   ├── train.csv
@@ -67,7 +65,7 @@ quora-question-pair-analysis/
 │   └── evaluate.py
 ├── README.md
 └── requirements.txt
-```
+
 
 ## Model Architecture
 
